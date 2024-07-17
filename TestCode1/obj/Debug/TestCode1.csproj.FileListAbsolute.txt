@@ -1,0 +1,10 @@
+F:\Adams apps\TestCode1\bin\Debug\TestCode1.exe.config
+F:\Adams apps\TestCode1\bin\Debug\TestCode1.exe
+F:\Adams apps\TestCode1\bin\Debug\TestCode1.pdb
+F:\Adams apps\TestCode1\obj\Debug\TestCode1.csproj.AssemblyReference.cache
+F:\Adams apps\TestCode1\obj\Debug\TestCode1.Properties.Resources.resources
+F:\Adams apps\TestCode1\obj\Debug\TestCode1.csproj.GenerateResource.cache
+F:\Adams apps\TestCode1\obj\Debug\TestCode1.csproj.CoreCompileInputs.cache
+F:\Adams apps\TestCode1\obj\Debug\TestCode1.exe
+F:\Adams apps\TestCode1\obj\Debug\TestCode1.pdb
+F:\Adams apps\TestCode1\obj\Debug\TestCode1.Form1.resources
